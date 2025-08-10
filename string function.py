@@ -18,4 +18,3 @@ print(name.title())
 a = "my name is hunain tayab i completed my inter from government college and my matric from private school"
 print(a.capitalize())
 
-print(a.index("scho "))
