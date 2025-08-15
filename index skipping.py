@@ -1,25 +1,25 @@
 
-a = "abcdefghijklmnopqrstuvwxyz"
-# d = a[0:25]
+my_variable = "abcdefghijklmnopqrstuvwxyz"
+# index = my_variable[0:25]
 # print(d)
 
 
-# f = a [0:9:2]
-# print(f)
+# index2 = my_variable [0:9:2]
+# print(index2)
 
 
-# g = a [0:26:3]
-# print(g)
+# skip = my_variable [0:26:3]
+# print(skip)
 
-# h = a [3:8:4]
-# print(h)
-
-
-# j = a [0:25 :5]
-# print(j)
+# skip2 = my_variable [3:8:4]
+# print(skip)
 
 
-k = a [1 :9:4]
+# skip3 = my_variable [0:25 :5]
+# print(skip3)
 
-print(k)
+
+slice1 = my_variable [1 :9:4]
+
+print(slice1)
 
