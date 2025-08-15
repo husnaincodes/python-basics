@@ -1,30 +1,30 @@
 
 #ARITHMETIC OPERATOR
-a = 23
-b = 56
-c = a+b
-print(c)
+my_variable = 23
+my_variable1 = 56
+my_variable2 = my_variable+my_variable1
+print(my_variable2)
 
 
 
 #assignment operators
-a = 45-34
-print(a)
-b = 45
-b *= 5
-print(b)
+number = 45-34
+print(number)
+number1 = 45
+number1 *= 5
+print(number1)
  #comparsion opertors
-d = 5<6
-print(d)
-e = 56== 67
-print(e)
+no = 5<6
+print(no)
+no1 = 56== 67
+print(no1)
 
 
 
 
 #logical opterators
-f = True or False
-print(f)
+boolean = True or False
+print(boolean)
 g = True and False
 print(g)
  
