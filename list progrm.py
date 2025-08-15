@@ -1,26 +1,26 @@
 
 list = []
 
-f1 = input("ENTER FURIT NAME :")
-list.append(f1)
+furit1 = input("ENTER FURIT NAME :")
+list.append(furit1)
 
-f2 = input("ENTER FURIT NAME :")
-list.append(f2)
+furit2 = input("ENTER FURIT NAME :")
+list.append(furit2)
 
-f3 = input("ENTER FURIT NAME :")
-list.append(f3)
+furit3 = input("ENTER FURIT NAME :")
+list.append(furit3)
 
-f4 = input("ENTER FURIT NAME :")
-list.append(f4)
+furit4 = input("ENTER FURIT NAME :")
+list.append(furit4)
 
-f5 = input("ENTER FURIT NAME :")
-list.append(f5)
+furit5 = input("ENTER FURIT NAME :")
+list.append(furit5)
 
-f6 = input("ENTER FURIT NAME :")
-list.append(f6)
+furit6 = input("ENTER FURIT NAME :")
+list.append(furit6)
 
-f7 = input("ENTER FURIT NAME :")
-list.append(f7)
+furit6 = input("ENTER FURIT NAME :")
+list.append(furit6)
 
 
 
