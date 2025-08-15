@@ -1,10 +1,10 @@
 
-# a =1 #int data type 
-# b= "harry" # char data type 
-# c = 45.6 #float data type
-# d = True/False #boolean data type
-# e = None #none data type 
+# variable  =1 #int data type 
+# variable2= "harry" # char data type 
+# variable3 = 45.6 #float data type
+# variable4 = True/False #boolean data type
+# variable5 = None #none data type 
 
-a = 3
-b = 10
-print(a+b)
+variable = 3
+variable1 = 10
+print(variable+variable1)
