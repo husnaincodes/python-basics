@@ -14,23 +14,23 @@ friends.append("RAYAY")
 print(friends)
 
 
-a = [23,45,78,90,56,34]
-a.sort()
-print(a)
+list = [23,45,78,90,56,34]
+list.sort()
+print(list)
 
 
 
-b = [67,44,57,89,59,0,4]
-b.insert(5,99)
-# b.sort()
-b.reverse()
+my_list = [67,44,57,89,59,0,4]
+my_list.insert(5,99)
+# my_list.sort()
+my_list.reverse()
 
-print(b)
+print(my_list)
 
-c = [ "1" , 2,3,4,5,6,7,8,9]
+list2 = [ "1" , 2,3,4,5,6,7,8,9]
 # c.clear()
-c.remove(4)
-print(c)
+list2.remove(4)
+print(list2)
 
 
 
