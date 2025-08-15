@@ -15,6 +15,6 @@ print(name.upper())
 print(name.title())
 
 
-a = "my name is hunain tayab i completed my inter from government college and my matric from private school"
-print(a.capitalize())
+my_self = "my name is hunain tayab i completed my inter from government college and my matric from private school"
+print(my_self.capitalize())
 
