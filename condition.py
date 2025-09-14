@@ -4,9 +4,9 @@ print("a is greater than b is ", number<number2)
 
 
 
-no = int ( input(" ENTER YOUR NUMBER :"))
-no2 = int (input(" ENTER YOUR NUMBER :"))
-print(" the average of two number is ", (no+no2)/2)
+number = int ( input(" ENTER YOUR NUMBER :"))
+number2 = int (input(" ENTER YOUR NUMBER :"))
+print(" the average of two number is ", (number+number2)/2)
 
-a = int ( input(" ENTER YOUR NUMBER :"))
-print("THE SQUARE OF THIS NUMBER IS ",a*a)
+square = int ( input(" ENTER YOUR NUMBER :"))
+print("THE SQUARE OF THIS NUMBER IS ",square*square)
