@@ -36,11 +36,11 @@ print(list2)
 
 
 
-d = [34,56,78,99,00,11,33]
-print(d)
-mylist = d.copy()
+copy = [34,56,78,99,00,11,33]
+print(copy)
+mylist = copy.copy()
 print(mylist)
 
-e = [1,1,3,3,4,4,5,5,5,5,5,5,5,5,3,3,3,3,3,6,6,]
+count = [1,1,3,3,4,4,5,5,5,5,5,5,5,5,3,3,3,3,3,6,6,]
 # e.count(3) incorrect
-print(e.count(3))
+print(count.count(3))
