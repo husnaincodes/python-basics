@@ -7,18 +7,18 @@ print(name4,name2,name3)
 
 
 name = 'HUSNAIN'
-t = len(name)
+length = len(name)
 
-print(t)
+print(length)
 
 
 name1 = 'HUSNAIN'
-t = name1 [0:5]
+index = name1 [0:5]
 
-print(t)
+print(index)
 
 
 
 name5 = "vegeta"
-d = name5[:-4]
-print(d)
+character = name5[:-4]
+print(character)
