@@ -14,8 +14,8 @@ number1 = 45
 number1 *= 5
 print(number1)
  #comparsion opertors
-no = 5<6
-print(no)
+number = 5<6
+print(number)
 no1 = 56== 67
 print(no1)
 
@@ -25,8 +25,8 @@ print(no1)
 #logical opterators
 boolean = True or False
 print(boolean)
-g = True and False
-print(g)
+condition = True and False
+print(condition)
  
 
 
