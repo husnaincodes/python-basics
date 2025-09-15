@@ -5,6 +5,6 @@
 # variable4 = True/False #boolean data type
 # variable5 = None #none data type 
 
-variable = 3
+my_variable = 3
 variable1 = 10
-print(variable+variable1)
+print(my_variable+variable1)
