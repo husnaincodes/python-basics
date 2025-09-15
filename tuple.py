@@ -19,8 +19,8 @@ for fruit in fruits:
 
 
 my_list = [1 ,3 ,4 ,5 ,7 ,"husnain", "gaara"]
-c = tuple(my_list)
-print(c)
+list1 = tuple(my_list)
+print(list1)
 
 my_name = ("husnain ",6 ,7 ,8 ,0,4,False,True,45.6)
 print(0 in my_name)
@@ -29,5 +29,5 @@ print(69 in my_name)
 
 
 
-h = input()
-print(55 in h)
+input_variable = input()
+print(55 in input_variable)
