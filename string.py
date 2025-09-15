@@ -12,8 +12,8 @@ length = len(name)
 print(length)
 
 
-name1 = 'HUSNAIN'
-index = name1 [0:5]
+name6 = 'HUSNAIN'
+index = name6 [0:5]
 
 print(index)
 
