@@ -1,6 +1,6 @@
-number = int(input("ENTER YOUR 1 NUMBER :"))
+number1 = int(input("ENTER YOUR 1 NUMBER :"))
 number2 = int(input("ENTER YOUR 2 NUMBER  :"))
-print("a is greater than b is ", number<number2)
+print("a is greater than b is ", number1<number2)
 
 
 
