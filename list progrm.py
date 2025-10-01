@@ -19,10 +19,6 @@ list.append(furit5)
 furit6 = input("ENTER FURIT NAME :")
 list.append(furit6)
 
-furit6 = input("ENTER FURIT NAME :")
-list.append(furit6)
-
-
 
 print(list)
 
