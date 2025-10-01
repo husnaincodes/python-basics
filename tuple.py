@@ -1,8 +1,8 @@
 
 my_tuple = (1,3,4,56,7,8,9,00,56,67)
 print(my_tuple)
-no = my_tuple.count(56)
-print(no)
+number = my_tuple.count(56)
+print(number)
 
 
 a = my_tuple*3
