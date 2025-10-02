@@ -5,11 +5,11 @@ number = my_tuple.count(56)
 print(number)
 
 
-a = my_tuple*3
-print(a)
+mutilpy = my_tuple*3
+print(mutilpy)
 
-b = my_tuple.index(67)
-print(b)
+index = my_tuple.index(67)
+print(index)
 
 
 
