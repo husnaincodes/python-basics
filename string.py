@@ -1,8 +1,8 @@
 
-name4 = "husnain"
+name1 = "husnain"
 name2 = '''gaara'''
 name3 = 'goku'
-print(name4,name2,name3)
+print(name1,name2,name3)
 
 
 
