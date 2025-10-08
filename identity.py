@@ -9,3 +9,6 @@ print(identity)
 
 print(id(5))
 print(id('a'))
+
+my_var = id("$")
+print(my_var)
