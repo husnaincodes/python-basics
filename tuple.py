@@ -1,5 +1,5 @@
 
-my_tuple = (1,3,4,56,7,8,9,00,56,67)
+my_tuple = (1,3,4,56,7,8,9,00,56,)
 print(my_tuple)
 number = my_tuple.count(56)
 print(number)
@@ -8,7 +8,7 @@ print(number)
 mutilpy = my_tuple*3
 print(mutilpy)
 
-index = my_tuple.index(67)
+index = my_tuple.index(00)
 print(index)
 
 
@@ -29,5 +29,5 @@ print(69 in my_name)
 
 
 
-input_variable = input()
-print(55 in input_variable)
+# input_variable = input()
+# print(55 in input_variable)
