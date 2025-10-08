@@ -22,5 +22,4 @@ Even though it hurts
 I'm already cursed
 She's a fairytale, yeah
 Even though it hurts
-'Cause I don't care if I lose my mind
-I'm already cursed ''')
+''')
