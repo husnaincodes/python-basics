@@ -9,5 +9,5 @@ DEAR <|NAME|>,
 <|DATE|>
 
 """
-print(letter.replace( "<|NAME|>","HUSNAIN").replace("<|DATE|>","5 aug 2025"))
+print(letter.replace( "<|NAME|>","HUSNAIN").replace("<|DATE|>","8 oct 2025"))
 
