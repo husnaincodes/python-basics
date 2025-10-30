@@ -12,7 +12,6 @@ print(skip)
 
 skip3 = my_variable [0:25 :5]
 print(skip3)
-
 slice1 = my_variable [1 :9:4]
 
 print(slice1)
