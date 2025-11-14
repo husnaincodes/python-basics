@@ -20,6 +20,5 @@ I'm in love with a fairytale
 Even though it hurts
 'Cause I don't care if I lose my mind
 I'm already cursed
-She's a fairytale, yeah
-Even though it hurts
+
 ''')
