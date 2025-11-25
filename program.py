@@ -18,7 +18,4 @@ Nowadays, I cannot find her
 But when I do, we'll get a brand new start
 I'm in love with a fairytale
 Even though it hurts
-'Cause I don't care if I lose my mind
-I'm already cursed
-
 ''')
