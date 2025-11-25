@@ -12,6 +12,6 @@ print("division of a and b is ", number/input_number)
 # number2 = float(input("ENTER THE second NUMBER :"  ))
 
 
-# print("a number is ", input_number)
-# print("b number is ",number2)
-# print("division of a and b is ",input_number/number2)
+print("a number is ", input_number)
+print("b number is ",number)
+print("division of a and b is ",input_number/number)
