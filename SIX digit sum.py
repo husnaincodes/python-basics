@@ -1,5 +1,6 @@
 
 number = int(input("Enter a Six digit number: "))
+
 d1 = number//100000
 d2 = number//10000%10
 d3 = number//1000%10
