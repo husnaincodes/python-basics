@@ -10,3 +10,5 @@ d6 = number%10
 
 sum_digit = d1+d2+d3+d4+d5+d6
 print(sum_digit)
+
+ 
