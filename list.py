@@ -27,7 +27,7 @@ my_list.reverse()
 
 print(my_list)
 
-list2 = [ "1" , 2,3,4,5,6,7,8,9]
+list2 = [ "1" , 2,3,4,4,5,6,7,8,9]
 # c.clear()
 list2.remove(4)
 print(list2)
