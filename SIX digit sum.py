@@ -1,4 +1,3 @@
-
 number = int(input("Enter a Six digit number: "))
 
 d1 = number//100000
