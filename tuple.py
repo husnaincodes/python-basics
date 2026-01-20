@@ -1,4 +1,3 @@
-
 my_tuple = (1,3,4,56,7,8,9,00,56,)
 print(my_tuple)
 number = my_tuple.count(56)
@@ -10,8 +9,6 @@ print(mutilpy)
 
 index = my_tuple.index(00)
 print(index)
-
-
 
 fruits = ('apple', 'banana', 'cherry')
 for fruit in fruits:
@@ -25,9 +22,3 @@ print(list1)
 my_name = ("husnain ",6 ,7 ,8 ,0,4,False,True,45.6)
 print(0 in my_name)
 print(69 in my_name)
-
-
-
-
-# input_variable = input()
-# print(55 in input_variable)
