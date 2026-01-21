@@ -1,4 +1,3 @@
-
 number =int(input("Enter the First number : ")) 
 
 number2 = int(input("Enter the second number : ")) 
