@@ -1,4 +1,3 @@
-
 phyiscs = """Gravity is the force that pulls objects toward each other.
 On Earth, it gives us weight and keeps us   grounded.
 The greater an object’s mass,the stronger its gravitational pull.
