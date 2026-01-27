@@ -1,4 +1,3 @@
-
 friends  = ["husnain",34 , 4.561 ,"GAARA" ,"thorfin", False]
 
 print(friends)
@@ -31,9 +30,6 @@ list2 = [ "1" , 2,3,4,4,5,6,7,8,9]
 # c.clear()
 list2.remove(4)
 print(list2)
-
-
-
 
 
 copy = [34,56,78,99,00,11,33]
