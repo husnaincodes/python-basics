@@ -1,7 +1,5 @@
-
 name = input("ENTER YOUR NAME PLEASE :")
 print (f"GOOD AFTERNOON, {name} ")
-
 
 letter = """
 DEAR <|NAME|>,
