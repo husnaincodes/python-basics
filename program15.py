@@ -6,7 +6,9 @@ print(len(my_tuple))
 
 if "orange" in my_tuple:
     print("Exist")
+
 elif "apple" in my_tuple:
     print("Exist")
+    
 else:
     print("Not Exist")
