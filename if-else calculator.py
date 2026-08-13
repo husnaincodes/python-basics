@@ -1,4 +1,3 @@
-
 operator = input("Select one operator(+,-,*,/,%): ")
 num = int(input("Enter the number : "))
 num2 = int(input("Enter the number : "))
